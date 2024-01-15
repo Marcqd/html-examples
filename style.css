@@ -1,16 +1,12 @@
 body{
-  background-color:gray;
+ background-color:gray;
 }
 h1,
 h2,
 a {
-color:white;
+color:rebeccapurple;
 }
 p {
-  color: white
-  max-width:65ch;
-}
-header,
-section{
-
+  color:red
+  max-width=65ch;
 }
